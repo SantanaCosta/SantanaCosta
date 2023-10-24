@@ -1,5 +1,6 @@
 <div align="center">
-    <img align="right" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f440.gif" alt="Emoji de Olhos" width=40>
+    &nbsp;
+    <img align="left" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f440.gif" alt="Emoji de Olhos" width=40>
     <h1>Hello there! I'm Yuri</h1>
 </div>
 
@@ -7,8 +8,9 @@
 <h5 align="center">Discover my projects & contributions</h5> <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santanacosta&show_icons=true&theme=gruvbox&locale=en" alt="santanacosta" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santanacosta&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="santanacosta" />
+  <img src="https://github-readme-stats.vercel.app/api?username=santanacosta&show_icons=true&theme=radical&locale=en" alt="santanacosta" />
+    &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santanacosta&show_icons=true&theme=radical&locale=en&layout=compact" alt="santanacosta" />
 </div>
 
 <div align="center">
